@@ -5,7 +5,7 @@ The purpose of the provide Bobby with csv files that determine the number of ret
 
 ### Results
 
-![Picture]
+![Picture](https://github.com/ducluu27/Pewlett_Hackard-Analysis/blob/master/Data/Retiring%20Titles.png)
 
 * Based on the results for the retiring titles csv there are a combined total of 90,398 titles that are in the age range for retirement. 
 
