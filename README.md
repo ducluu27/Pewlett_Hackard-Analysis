@@ -17,7 +17,7 @@ The purpose of the provide Bobby with csv files that determine the number of ret
 
 ### Summary
 
-*  How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
   * Based on the results of the retiring titles, 90,398 roles will need to be filed. The break down of the roles that need to be filled are 29,414 senior engineers, 28,254 senior staffs, 14,222 engineers, 12,243 staffs, 4,502 technique leaders, 1,761 assistant engineers, and 2 managers.
 
