@@ -17,9 +17,10 @@ The purpose of the provide Bobby with csv files that determine the number of ret
 
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-![Picture](https://github.com/ducluu27/Pewlett_Hackard-Analysis/blob/master/Data/Retiring%20Titles.png)
-
   * Based on the results of the retiring titles, 90,398 roles will need to be filed. The break down of the roles that need to be filled are 29,414 senior engineers, 28,254 senior staffs, 14,222 engineers, 12,243 staffs, 4,502 technique leaders, 1,761 assistant engineers, and 2 managers.
+  
+  ![Picture](https://github.com/ducluu27/Pewlett_Hackard-Analysis/blob/master/Data/Retiring%20Titles.png)
+
 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
