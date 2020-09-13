@@ -24,5 +24,6 @@ The purpose of the provide Bobby with csv files that determine the number of ret
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
   * Overall I believe there aren't enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. For exmaple, of the 29,414 senior engineers that are retiring. Only 208 are eligible to mentor the next generation. 208 mentors to fill one of the largest departments is not enough. For the Senior staff there are 521 out of the 28,254 that are eligible to mentor the next generation. for the engineers, 14,222 are retiring but only 465 are elgible to mentor the next generation. The staff have 203 eligible for mentorship out of the 12,243. The technique leader have 77 out of the 4,502 eligbile. The assistant engineers have 75 out of the 1,761, and lastly there are 0 managers. Below is a link to the mentorship_eligbile employees:
-  
+
+![link](https://github.com/ducluu27/Pewlett_Hackard-Analysis/blob/master/Data/mentorship_eligibility.csv)
   
